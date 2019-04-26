@@ -15,6 +15,7 @@ In this repository is a collection of my previous coding work for MAGD 150 at UW
 
 **LAB 08**
 [Link](https://github.com/CatinoAM21/MAGD150-Portfolio/tree/gh-pages/s19magd150_lab08_Catino)
+
 -I made a demotivational poster you can save as a pdf.
 
 **LAB 09**
