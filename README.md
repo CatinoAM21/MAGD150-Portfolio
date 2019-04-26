@@ -4,7 +4,7 @@
 In this repository is a collection of my previous coding work for MAGD 150 at UW-W
 
 **LAB 06**
-[Link](https://github.com/CatinoAM21/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Catino(resubmission)
+[Link](https://github.com/CatinoAM21/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Catino(resubmission))
 
 -Attempt at making a functional button system.
 
